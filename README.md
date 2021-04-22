@@ -1,7 +1,8 @@
 ### Hello there 👋
 
-Hello, my name Yunkai Fan, I am currently a student at University of Toronto Mississauga, studying in Statistic specialist, math minor and computer science minor.
-I'm fluent in Mandarin and English, and able to program in Python, Java, C, C#, R, HTML.
+Hello, my name Yunkai (Kevin) Fan, I am currently a third-year student at University of Toronto Mississauga, studying in Statistic specialist, Math minor and CS minor.
+
+I'm fluent in Mandarin and English, and able to program in Python, Java, C, C#, R, HTML. Also a fan of graph theory.
 
 
 
